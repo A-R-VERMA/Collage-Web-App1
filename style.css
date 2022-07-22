@@ -1,0 +1,11 @@
+#start{
+    width: 100px;
+    cursor: pointer;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid black;
+}
